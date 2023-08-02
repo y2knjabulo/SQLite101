@@ -1,0 +1,7 @@
+
+POST http://localhost:4001/api/greetings
+content-type : application/application//json
+{
+    "language": "Afrikaans",
+    "greeting" : "goeie more"
+}
